@@ -1,0 +1,43 @@
+==Blackjack Game==
+
+Begin with start button.
+
+Have a "How to Play" option
+   --If they click the "yes" button, take to how to play page then the
+     next screen.
+   --If they click the next button instead, takes to next screen.
+
+Next screen is the points you start with for wagers.
+   --Use points option for setting wager... enter in a wager.
+
+The game begins...
+
+The dealer deals cards 
+   --Two to the player and two to the dealer themself
+The player has two options.
+
+   --Option 1: Hit.. they draw +1 card on each hit till they stop at
+     a desired point.
+      ~If the user goes over a total of 21, they bust and lose.
+   --Option 2: Stand.. Dealer shows their cards.
+      ~If Dealer get a total higher than the user's total the dealer
+       wins (as long as it is at 21 or under).
+      ~If dealer stands and is lower than the user's total, user wins.
+      ~If dealer is less that the total 17, dealer draws card till 
+       over 21
+
+Game is over after win or loss.
+   -Option to play again takes them back to the start of the game.
+   -Other option is to exit the game.
+
+--------------------------------------------------------------------
+Notes:
+*Bucky is the dealer.
+*High score is based on the amount of points.
+*The winner get the points waged.
+*Dealer matches or sets a higher wage against the user. (decision is     
+ random).
+*Tap and click interface.
+*There will always be a "How to Play" button in the corner incase
+ user forgets the instructions on how to play.
+
