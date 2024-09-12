@@ -1,0 +1,51 @@
+==Dress Up Game==
+
+Start button.
+
+Intro screen pops up.
+   --"Dr. Nolan needs an out fit for....."
+Next button.
+
+Game starts...
+Dr. Nolan's avatar is on the screen.
+
+On the left there will be a window of categories to pick from...
+   --Hat
+   --Hair
+   --Top
+   --Jacket
+   --Pants
+   --Shoes
+   --Accessories
+   --etc.(more options can be added).
+      ~Easy swap, cycle through choices and auto removes and puts
+       on new choice.
+      ~Every selection you can choose a color with the color wheel
+      ~Remove item selected.
+      ~All categories are optional.
+
+Items pick will be put on to DR. Nolan live on the right side.
+
+Click the done button.
+   --Shows Dr. Nolan in his new look.
+   --Option to save as an image.
+
+There will be a Exit button and a play again button
+   --Play again will clear Dr. Nolan's outfit back to the base.
+   --Exit will exit the game.
+
+--------------------------------------------------------------------
+Notes:
+*Exit button at all times.
+*Restart button at all time.
+*Can have different avatars to pick from like other professors.
+*Relaxing music in the background
+*How to play button to help explain or tips throughout that pop up 
+ with a correlated action
+
+
+
+
+
+
+
