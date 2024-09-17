@@ -1,0 +1,42 @@
+Team:
+James L.
+Iain G.
+Ellias A.
+Collee C.
+
+Requirements:
+Are the description of what sometimes why the product should look like. Given by the buyer. 
+Design:
+Are the set of requirements on how the solution look like. Dividing the solution into tasks to be completed.
+Implementation:
+Application of of requirements and design towards the project.
+Test:
+Initial implementation is setup but not released. Making sure that the required work is done. Also makng sure to find all errors.
+Release:
+Project is complete and usable, Users are now using the project. All previous steps led to this.
+Support/Maintenance:
+Fixing bugs, Resolving client issues. Upkeep, keeping security and artifacts up to date.
+Upgrades/Updates:
+Making major minor and patch changes to the product and releasing it for the client.
+
+
+Things about each phase for each phase:
+Requirements:
+SMART GOALS.
+Design:
+Detailed, Task oriented, Take account potential hold ups.
+Implementation :
+Detailed documentation
+Must meet requirements given in other step
+Test:
+Document every test
+Consider all variables
+Broken to smaller tests.
+Release:
+Should have not skipped earlier step.
+Handoff to buyer
+Support Maintaining:
+Identify problems, review for fix. Customer service?
+Upgrades:
+Through its own lifecycle.
+Update and add user stories.
