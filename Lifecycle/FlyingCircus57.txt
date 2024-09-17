@@ -18,3 +18,25 @@ Support/Maintenance:
 Fixing bugs, Resolving client issues. Upkeep, keeping security and artifacts up to date.
 Upgrades/Updates:
 Making major minor and patch changes to the product and releasing it for the client.
+
+
+Things about each phase for each phase:
+Requirements:
+SMART GOALS.
+Design:
+Detailed, Task oriented, Take account potential hold ups.
+Implementation :
+Detailed documentation
+Must meet requirements given in other step
+Test:
+Document every test
+Consider all variables
+Broken to smaller tests.
+Release:
+Should have not skipped earlier step.
+Handoff to buyer
+Support Maintaining:
+Identify problems, review for fix. Customer service?
+Upgrades:
+Through its own lifecycle.
+Update and add user stories.
