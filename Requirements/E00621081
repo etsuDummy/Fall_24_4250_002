@@ -1,0 +1,38 @@
+Game 1 – Blackjack
+1.	Develop a user-friendly interface with visuals for poker cards, chips, and game actions.
+2.	Ensure the game supports real-time interactions for a smooth gaming experience.
+3.	Implement a flexible betting system that allows players to place, match, and increase / decrease bets.
+4.	Create a random card dealing algorithm that ensures fairness and unpredictability.
+5.	Provide clear explanations of blackjack rules and a help section for new players.
+6.	Allow multiple players to join tin the same table, and possibly private tables.
+7.	Ensure the game is accessible on various devices, mainly smartphones.
+8.	Include a chat feature for players to communicate during gameplay
+9.	Include a section where players can view game history, including wins and losses, as well as compare scores to other players
+10.	While logins aren’t allowed, include a way to end your game, cashing out and asking the player to input their name to the scoreboard if desired.
+
+
+Game 2 – Dr.Nolan
+1.	 Provide a diverse range of clothing options, including tops, bottoms, shoes, and accessories.
+2.	Offer various hairstyles and color options to enhance character personalization.
+3.	Allow users to save their outfits and share with friends / social media.
+4.	Create a user-friendly drag-&-drop interface for easy outfit customization
+5.	Regularly update the game with holiday / event themed items
+6.	Ensure the game is accessible on various devices, mainly smartphones.
+7.	Allow users to rate and provide feedback about designs / usability.
+8.	Ensure the game is accessible to players with disabilities, including text-to-speech and color contrast adjustments
+9.	Create customizable backgrounds where users can pose their character.
+10.	Provide an introductory tutorial, telling new players how to access multiple tabs and customize characters.
+
+
+Game 3 – 3 card Monte
+1.	 Design a visually appealing and intuitive game interface that clearly displays the cards and user options.
+2.	Implement realistic card movements and shuffling animations to simulate a real game of 3 card monte
+3.	Enable players to place bets on their chosen card, with clear instructions on the betting limits.
+4.	Use a randomized algorithm to change the shuffling speed of the cards periodically, ensuring fair but unpredictable movement of the winning card.
+5.	Provide immediate feedback after each round indicating if the player wins or loses.
+6.	Include a clear section explaining the rules of the game to new players.
+7.	Add sound effects for card shuffling, winning, or losing to enhance game experience.
+8.	While logins aren’t allowed, include a way to end your game, cashing out and optionally asking the player to input their name to the scoreboard if desired.
+9.	Ensure the game is accessible on various devices, mainly smartphones.
+10.	Allow players to view their game history that session, including total wins, loses, and bets.
+11.	Create an in-game timer to create a sense of urgency during gameplay.
