@@ -1,1 +1,28 @@
+==Fruit Slicing Game==
 
+Begin with start button.
+
+Have a "How to Play" option
+   --If they click the "yes" button, take to how to play page then the
+     next screen.
+   --If they click the next button instead, menu fades items to slice are thrown up.
+
+The game begins...
+
+The game throws more items to slice.
+   --There is more to slice the longer you play.
+The player has two options.
+
+   --Option 1: Hit.. user slices the item and gets points.
+   --Option 2: Miss.. user loses and is shown their score.
+
+Game is over after loss.
+  -- Option to play again.
+  -- Option to use score to buy new "slices" or "items"
+
+--------------------------------------------------------------------
+Notes:
+*Items are etsu related or school  related.
+*High score is based on the amount of points.
+*There will always be a "How to Play" button in the corner incase
+ user forgets the instructions on how to play.
