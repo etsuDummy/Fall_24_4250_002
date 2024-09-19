@@ -1,0 +1,41 @@
+Group members:
+- Noah Drumwright
+- Randy Nixon
+- Matthew Beeler
+- Sean Mulvey
+
+SLC Phases:
+-- Requirements:
+  - Addressing the client's needs and documenting them
+  - Gather constraints
+  - Functional or nonfunctional
+  - Requirements document
+-- Design
+  - The part of the SLC where requirements are listed out and a plan for howw to implement them is set up
+  - Ties back to requirements
+  - Design document
+  - Conceptual design
+-- Implementation
+  - The phase of the SLC where the designs are put into practice by fuctionaly creating them as laid out by the design document
+  - Coding
+  - Based on design
+  - Code base documentation
+-- Testing
+  - Quality assurance after the main coding is done, usually put into a realistic sandbox environment to determine how well it will implement
+  - Test plan
+  - Test cases
+  - Quality assurance
+-- Release 
+  - Give your project out to public or customer
+  - Release notes
+  - Release procedures
+  - Release scripts
+-- Support/Maintenance
+  - The process of ensuring a project and its functionality continues to work after release
+  - Bug fixes
+  - Update release documents
+-- Upgrade/Update
+  - After implementation, software will usually be upgraded with new features/compatability. May be done often or rarely
+  - Patch notes
+
+
