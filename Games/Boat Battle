@@ -1,0 +1,21 @@
+Boat Battle
+
+- Tutorial page
+- Playing board
+	- grid based
+- Set of boats
+- Bigger boats are worth more points
+- Scoring system
+	- tracking hit rate for score
+- computer knows to continue firing near a hit (when it gets a hit)
+- qualify input (can't shoot the same spot twice)
+- Turn based
+- Turn time limit
+- randomly generated boat layouts
+- different difficulties
+- opponent can freeze the other player
+- explosions
+- sound effects
+- power ups
+- hint system
+- scout plane
