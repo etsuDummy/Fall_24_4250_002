@@ -1,0 +1,38 @@
+Coding Standards
+Commenting
+XML Documentation
+Comments are always complete sentences for classes and functions
+Functions/Methods/Files/Variables
+Explain why and not what
+Use blank lines to separate blocks of code
+In line comments for complex logic
+Noting TODO: when methods are incomplete
+
+Naming Conventions
+Pascal case
+All named objects should be relevant to what they do
+Single tab indentation
+Function names should begin with module or class name to avoid name collision
+Names must begin with alphanumeric characters
+
+Input Validation
+Input validation to test all possible scenarios that a user could contribute i.e. testing min/max, positive/negative values for integers, as well as 0
+
+Unit Testing
+Independently operable, not dependent on any outside factors 
+Error handling and exceptions
+Unit testing is created in iterations based upon version history
+Check for nulls (where applicable)
+Handle edge cases
+
+Code Review
+Having a senior developer and a peer developer present for code reviews
+Discussing well-designed features as well as what could be improved upon
+
+Source Control/Repo Rules
+Everyone branch off of main branch.
+Be aware of other commits to the repository, and sync often
+Sync’s should be done multiple times per day, and always before committing a pull request
+Commit messages with brief descriptions of changes
+Descriptive names of branches
+Do not commit to main with incomplete code
