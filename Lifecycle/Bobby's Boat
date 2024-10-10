@@ -1,0 +1,49 @@
+Anthony Viera
+Bailey Wilson
+Caden Gay
+Braydon Fields
+Hunter Jones
+
+Phase:                    Definitions
+Requirements              Gathering the necessary information for the development of the product
+Design                    The structure of how the project is built.
+Implementation            The construction of the project.
+Test                      Examining edge cases and expectations to make sure the program will not crash.
+Release                   Rolling out product to a platform accessible to users.
+Support/Maintenance       Updating or fixing existing product to solve previously unforeseen circumstances.
+Upgrades/Updates          Adding additional functionalities after release of product.
+
+Requirements phase:
+Mandatory/optional requirements
+Confirming the requirements with the customer
+Asking clarifying questions
+
+Design phase:
+Design Document
+Brainstorming/Collaboration for multiple ideas
+Ties back to all requirements
+
+Implementation phase:
+Version control
+Debugging
+Document the code
+
+Test phase:
+Verification and validation
+Bug reporting and tracking
+Regression Testing
+
+Release phase:
+Announcement
+Communication with customer
+Advertisement
+
+Support/Maintenance phase:
+Accepting service tickets for bug fixes
+Regular system testing
+Updating release documents
+
+Upgrades/Updates phase:
+Patch notes
+Adding new behaviors/features
+Modifying existing behaviors/features
