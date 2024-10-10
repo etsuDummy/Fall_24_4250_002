@@ -1,0 +1,41 @@
+Standards
+-----------------
+
+-Check for scope in variables
+  Naming convetions consise
+  Keep variables unique to avoid reuse
+-Initaize variables
+-Keep comments consice
+  Have inline comments
+  Decribe what the funtion does
+  Label things like closed curly brackets and what it closes
+-Exceptions and error handling
+  Throw errors and catch them
+  Status codes
+  Exceptions
+-Whitespace managments
+  Used tab to keep indents consistent
+-Limit nesting to a limited number 
+  Cut down overuse of nesting
+-Limit the code in the function to do what the name states/ function description.
+  Dont have it do like 3 other things that are unrelated 
+  to the name of the function.
+-Work in branches to avoid main edits
+  Constantly pull before making new additions after being away
+  Review code with others before actually commiting
+-Next line Curly brackets
+-One person to review the code (perferable a senoir)
+-Test setters and getters if they are public
+
+  (Look up the coding standards too)
+
+
+Unit Testing Java script
+--------------------------
+
+-Create a file called test.js
+-Create a function for each test
+-Call each funtion to test
+  node.js
+
+
